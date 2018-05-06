@@ -1,0 +1,10 @@
+name: "mqtt_subscribe"
+type: "neuron"
+author: "Papy_BernardO"
+
+kalliope_supported_version:
+  - 0.5
+
+tags:
+  - "mqtt"
+  - "subscribe"
