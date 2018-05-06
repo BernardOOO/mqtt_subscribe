@@ -1,0 +1,7 @@
+---
+- name: Kalliope mqtt_subscribe neuron install
+  hosts: localhost
+  gather_facts: no
+  connection: local
+  become: true
+
